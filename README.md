@@ -7,7 +7,7 @@
 <a href="https://data.newrank.cn/m/s.html?s=NykyOzI9MS5LNQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/-微信关注“风中玲音”公众号-orange.svg" alt="#" align="right">
 </a>
-
+<!-- 
 <div align="center">
 <img width="125" height="125" src="https://github.com/gedoor/legado/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="legado"/>  
   
@@ -17,6 +17,7 @@ Legado / 风中玲音
 <br>
 Legado is a free and open source novel reader for Android.
 </div>
+-- >
 
 [![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-) [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
 
@@ -46,30 +47,14 @@ Legado is a free and open source novel reader for Android.
 
 # Download-下载 [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-)
 #### Android-安卓 
-* [Releases](https://github.com/gedoor/legado/releases/latest)
-* [Google play - $1.99](https://play.google.com/store/apps/details?id=io.legado.play.release)
-* [Coolapk](https://www.coolapk.com/apk/io.legado.app.release)
-* [\#Beta](https://kunfei.lanzoui.com/b0f810h4b)
-* [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)
+
 
 
 #### IOS-苹果
-* 已停止(No release) - [Github](https://github.com/gedoor/YueDuFlutter)
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
-
-# Community-交流社区 [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-)
-
-#### Telegram
-[![Telegram-group](https://img.shields.io/badge/Telegram-%E7%BE%A4%E7%BB%84-blue)](https://t.me/yueduguanfang) [![Telegram-channel](https://img.shields.io/badge/Telegram-%E9%A2%91%E9%81%93-blue)](https://t.me/legado_channels)
-
-#### Discord
-[![Discord](https://img.shields.io/discord/560731361414086666?color=%235865f2&label=Discord)](https://discord.gg/VtUfRyzRXn)
-
-#### Other
-https://www.yuque.com/legado/wiki/community
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
@@ -85,7 +70,6 @@ https://www.yuque.com/legado/wiki/community
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-# Other-其他 [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-)
 ##### 免责声明
 https://github.com/adminlove520/Disclaimer
 
@@ -100,29 +84,7 @@ https://github.com/adminlove520/Disclaimer
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-# Grateful-感谢 [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-)
-> * org.jsoup:jsoup
-> * cn.wanghaomiao:JsoupXpath
-> * com.jayway.jsonpath:json-path
-> * com.github.gedoor:rhino-android
-> * com.squareup.okhttp3:okhttp
-> * com.github.bumptech.glide:glide
-> * org.nanohttpd:nanohttpd
-> * org.nanohttpd:nanohttpd-websocket
-> * cn.bingoogolapple:bga-qrcode-zxing
-> * com.jaredrummler:colorpicker
-> * org.apache.commons:commons-text
-> * io.noties.markwon:core
-> * io.noties.markwon:image-glide
-> * com.hankcs:hanlp
-> * com.positiondev.epublib:epublib-core
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
-</a>
 
-# Interface-界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
-<img src="https://github.com/gedoor/gedoor.github.io/blob/master/static/img/legado/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B1.jpg" width="270"><img src="https://github.com/gedoor/gedoor.github.io/blob/master/static/img/legado/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B2.jpg" width="270"><img src="https://github.com/gedoor/gedoor.github.io/blob/master/static/img/legado/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B3.jpg" width="270">
-<img src="https://github.com/gedoor/gedoor.github.io/blob/master/static/img/legado/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B4.jpg" width="270"><img src="https://github.com/gedoor/gedoor.github.io/blob/master/static/img/legado/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B5.jpg" width="270"><img src="https://github.com/gedoor/gedoor.github.io/blob/master/static/img/legado/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B6.jpg" width="270">
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
