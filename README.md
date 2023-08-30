@@ -7,7 +7,7 @@
 <a href="https://data.newrank.cn/m/s.html?s=NykyOzI9MS5LNQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/-微信关注“风中玲音”公众号-orange.svg" alt="#" align="right">
 </a>
-<!-- 
+
 <div align="center">
 <img width="125" height="125" src="https://github.com/gedoor/legado/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="legado"/>  
   
@@ -17,7 +17,6 @@ Legado / 风中玲音
 <br>
 Legado is a free and open source novel reader for Android.
 </div>
--- >
 
 [![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-) [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
 
