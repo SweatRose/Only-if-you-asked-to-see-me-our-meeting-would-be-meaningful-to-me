@@ -13,7 +13,7 @@
   
 Legado / 风中玲音
 <br>
-<a href="https://github.com/adminlove520" target="_blank">gedoor.github.io</a> / <a href="https://www.legado.top/" target="_blank">legado.top</a>
+<a href="https://github.com/adminlove520" target="_blank">[gedoor.github.io](https://github.com/adminlove520)</a> / <a href="https://github.com/adminlove520/" target="_blank">legado.top</a>
 <br>
 Legado is a free and open source novel reader for Android.
 </div>
