@@ -36,12 +36,6 @@
             app:iconSpaceReserved="false" />
 
         <io.legado.app.lib.prefs.Preference
-            android:key="qqChannel"
-            android:title="@string/join_qq_channel"
-            android:summary="@string/qq_channel_summary"
-            app:iconSpaceReserved="false" />
-
-        <io.legado.app.lib.prefs.Preference
             android:key="mail"
             android:summary="@string/email"
             android:title="@string/send_mail"
