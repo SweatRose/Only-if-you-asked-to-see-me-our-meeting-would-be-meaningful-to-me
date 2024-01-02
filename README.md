@@ -13,17 +13,27 @@
   
 Legado / 风中玲音
 <br>
+<<<<<<< HEAD
 <a href="https://github.com/adminlove520" target="_blank">gedoor.github.io</a> / <a href="https://github.com/SweatRose/Only-if-you-asked-to-see-me-our-meeting-would-be-meaningful-to-me" target="_blank">SweatRose</a>
 <br>
 Legado is a free and open source novel reader for Android.
 </div>
 
 [![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-) [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
+=======
+<a href="https://github.com/adminlove520" target="_blank">[github](https://github.com/adminlove520)</a> 
+</div>
+
+>>>>>>> 135be0fb234d9813c982d36454505538825a7ec5
 
 >新用户？
 >
 >软件不提供内容，需要您自己手动添加，例如导入书源等。
+<<<<<<< HEAD
 >看看 [官方帮助文档](https://www.yuque.com/legado/wiki)，也许里面就有你要的答案。
+=======
+>看看 [官方帮助文档](https://google.com)，也许里面就有你要的答案(谷歌一下，您知道的更多~)。
+>>>>>>> 135be0fb234d9813c982d36454505538825a7ec5
 
 # Function-主要功能 [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-)
 [English](English.md)
@@ -46,6 +56,7 @@ Legado is a free and open source novel reader for Android.
 
 # Download-下载 [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-)
 #### Android-安卓 
+<<<<<<< HEAD
 * [Releases](https://github.com/gedoor/legado/releases/latest)
 * [Google play - $1.99](https://play.google.com/store/apps/details?id=io.legado.play.release)
 * [Coolapk](https://www.coolapk.com/apk/io.legado.app.release)
@@ -55,11 +66,18 @@ Legado is a free and open source novel reader for Android.
 
 #### IOS-苹果
 * No release
+=======
+
+
+
+#### IOS-苹果
+>>>>>>> 135be0fb234d9813c982d36454505538825a7ec5
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
+<<<<<<< HEAD
 # Community-交流社区 [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-)
 
 #### Telegram
@@ -69,6 +87,8 @@ Legado is a free and open source novel reader for Android.
 [![Discord](https://img.shields.io/discord/560731361414086666?color=%235865f2&label=Discord)](https://discord.gg/VtUfRyzRXn)
 
 
+=======
+>>>>>>> 135be0fb234d9813c982d36454505538825a7ec5
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
@@ -83,7 +103,10 @@ Legado is a free and open source novel reader for Android.
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
+<<<<<<< HEAD
 # Other-其他 [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-)
+=======
+>>>>>>> 135be0fb234d9813c982d36454505538825a7ec5
 ##### 免责声明
 https://github.com/adminlove520/Disclaimer
 
@@ -97,6 +120,12 @@ https://github.com/adminlove520/Disclaimer
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 135be0fb234d9813c982d36454505538825a7ec5
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
