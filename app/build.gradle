@@ -17,7 +17,7 @@ def version = "3." + releaseTime()
 def gitCommits = Integer.parseInt('git rev-list HEAD --count'.execute().text.trim())
 
 android {
-    compileSdk = compile_sdk_version
+    compileSdkVersion compile_sdk_version
     namespace 'io.legado.app'
     kotlin {
         jvmToolchain {
@@ -138,6 +138,7 @@ android {
     lint {
         checkDependencies true
     }
+    buildToolsVersion '33.0.1'
     tasks.withType(JavaCompile).tap {
         configureEach {
             //options.compilerArgs << "-Xlint:unchecked"

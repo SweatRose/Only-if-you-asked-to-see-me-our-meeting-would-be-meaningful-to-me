@@ -145,9 +145,9 @@
             android:name="io.legado.app.ui.book.audio.AudioPlayActivity"
             android:launchMode="singleTask" />
         <!-- 授权界面 -->
-        <activity
-            android:name="io.legado.app.lib.permission.PermissionActivity"
-            android:theme="@style/Activity.Permission" />
+<!--        <activity-->
+<!--            android:name="io.legado.app.lib.permission.PermissionActivity"-->
+<!--            android:theme="@style/Activity.Permission" />-->
         <!-- 二维码扫描 -->
         <activity
             android:name=".ui.qrcode.QrCodeActivity"

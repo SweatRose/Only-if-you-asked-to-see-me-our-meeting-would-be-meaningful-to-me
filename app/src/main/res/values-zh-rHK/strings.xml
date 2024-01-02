@@ -686,7 +686,7 @@
     <string name="follow_official_account">關注公眾號</string>
     <string name="wechat">WeChat</string>
     <string name="thanks">你的支持是我更新的動力</string>
-    <string name="about_official_account">公眾號[开源阅读]</string>
+    <string name="about_official_account">公眾號[风中玲音]</string>
     <string name="source_auto_changing">正在自動換源</string>
     <string name="click_to_apply">點擊加入</string>
     <string name="middle">中</string>
@@ -760,7 +760,7 @@
     <string name="language">語言</string>
     <string name="import_rss_source">匯入訂閱源</string>
     <string name="donate_summary">您嘅支援喺我更新嘅動力</string>
-    <string name="about_summary">公眾號[开源阅读软件]</string>
+    <string name="about_summary">公眾號[风中玲音软件]</string>
     <string name="read_record">閲讀記錄</string>
     <string name="read_record_summary">閱讀時間記錄</string>
     <string name="local_tts">本地TTS</string>
