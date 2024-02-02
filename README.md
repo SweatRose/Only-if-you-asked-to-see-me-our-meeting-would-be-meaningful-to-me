@@ -50,6 +50,7 @@ Legado is a free and open source novel reader for Android.
 https://www.yuque.com/legado/wiki/community
 ## 书源导入
 https://dy.miaogongzi.cc/
+https://code.gitlink.org.cn/api/v1/repos/dyy520/dyy/raw/mgz.json
 
 # API [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-)
 * 阅读3.0 提供了2种方式的API：`Web方式`和`Content Provider方式`。您可以在[这里](api.md)根据需要自行调用。
