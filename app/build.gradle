@@ -190,7 +190,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-service:$lifecycle_version")
 
     //media
-    implementation("androidx.media:media:1.6.0")
+    implementation("androidx.media:media:1.7.0")
     // For media playback using ExoPlayer
     implementation "androidx.media3:media3-exoplayer:$media3_version"
     // For loading data using the OkHttp network stack
